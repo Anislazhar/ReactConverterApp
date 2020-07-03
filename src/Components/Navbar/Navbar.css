@@ -1,0 +1,60 @@
+.navbar {
+  overflow: hidden;
+  background: #363a3e;
+  position: relative;
+}
+
+.navbar .logo {
+  width: 40%;
+  float: left;
+  padding: 10px;
+}
+
+.navbar .logo .logo-text {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar .ul-list {
+  float: right;
+  list-style: none;
+}
+
+.navbar .ul-list .list-item {
+  display: inline-block;
+}
+
+.navbar .ul-list .list-item a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.navbar .ul-list .list-item a:hover {
+  color: gray;
+}
+
+@media (min-width: 992px) {
+  .navbar label {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar .logo {
+    width: 30%;
+  }
+
+  .navbar .ul-list {
+    width: 50%;
+    float: right;
+  }
+
+  .navbar .ul-list .list-item {
+    display: block;
+    text-align: end;
+  }
+}
