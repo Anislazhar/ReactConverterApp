@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactConverterApp/static/css/main.218939c0.chunk.css",
+    "main.js": "/ReactConverterApp/static/js/main.e41b8107.chunk.js",
+    "main.js.map": "/ReactConverterApp/static/js/main.e41b8107.chunk.js.map",
+    "runtime-main.js": "/ReactConverterApp/static/js/runtime-main.8eba3f06.js",
+    "runtime-main.js.map": "/ReactConverterApp/static/js/runtime-main.8eba3f06.js.map",
+    "static/js/2.148c444e.chunk.js": "/ReactConverterApp/static/js/2.148c444e.chunk.js",
+    "static/js/2.148c444e.chunk.js.map": "/ReactConverterApp/static/js/2.148c444e.chunk.js.map",
+    "index.html": "/ReactConverterApp/index.html",
+    "precache-manifest.2277397d7b4ff8494d3214873e9f74d4.js": "/ReactConverterApp/precache-manifest.2277397d7b4ff8494d3214873e9f74d4.js",
+    "service-worker.js": "/ReactConverterApp/service-worker.js",
+    "static/css/main.218939c0.chunk.css.map": "/ReactConverterApp/static/css/main.218939c0.chunk.css.map",
+    "static/js/2.148c444e.chunk.js.LICENSE.txt": "/ReactConverterApp/static/js/2.148c444e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eba3f06.js",
+    "static/js/2.148c444e.chunk.js",
+    "static/css/main.218939c0.chunk.css",
+    "static/js/main.e41b8107.chunk.js"
+  ]
+}
